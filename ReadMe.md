@@ -1,6 +1,7 @@
 # Getting Started
 
-##Usage
+## Usage
+
 ### Run application
 Just to check, that application works,
 you can build it with maven and start via jar file.
